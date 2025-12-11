@@ -17,15 +17,11 @@
 
 #################### LIBRARIES TO USE ####################
 
-import os
-
 import numpy as np                      # Allows to work with Series.
 import pandas as pd						# Allows to organize the Data.
 import statsmodels.formula.api as smf	# Allows to apply regression methods.
 
 from scipy import stats                 # Allows to work with statistical tests and distributions
-
-os.chdir('/Users/manuelverduhenares/Library/CloudStorage/Dropbox/1_Investigación/10_BBDD/2025_Verdu_Carchano_Farinós')
 
 #################### START OF COMPLEMENTARY FUNCTIONS ####################
 
